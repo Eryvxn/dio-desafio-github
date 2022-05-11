@@ -1,0 +1,2 @@
+O Git Bush é um terminal extendido para otimizar o uso do Github.
+
